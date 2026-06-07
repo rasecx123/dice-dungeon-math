@@ -1,5 +1,7 @@
 # Dice Dungeon Math
 
+![Gameplay Screenshot](screenshot.png)
+
 A fantasy-themed educational math game prototype built with Phaser 4.
 
 ## Gameplay
