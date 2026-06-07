@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #111;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+#hud {
+    position: absolute;
+    left: 50%;
+    top: 550px;
+    transform: translateX(-50%);
+    z-index: 100;
+}
+
+#answer-input {
+    font-size: 28px;
+    width: 120px;
+    padding: 8px;
+    text-align: center;
+}
+
+#attack-button,
+#restart-button {
+    font-size: 24px;
+    padding: 8px 16px;
+}
+
+#restart-button
+{
+    display: none;
+}
