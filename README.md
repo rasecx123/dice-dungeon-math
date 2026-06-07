@@ -1,6 +1,6 @@
 # Dice Dungeon Math
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](Screenshot.png)
 
 A fantasy-themed educational math game prototype built with Phaser 4.
 
